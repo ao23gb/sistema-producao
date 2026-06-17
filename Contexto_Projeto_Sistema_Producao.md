@@ -82,9 +82,8 @@ Quadro com colunas por etapa, cartões representando ordens de produção (produ
 
 ## Ordem sugerida de construção (MVP)
 
-1. Configuração do ambiente (Laravel, banco de dados, autenticação base)
-2. Usuários e perfis de acesso
-3. Cadastro (colaboradores, insumos, materiais, produtos, etapas)
-4. Estoque (controle, entrada, movimentação)
-5. Produção (Kanban)
-6. Em Uso (controle e visualização)
+1. Autenticação e perfis de acesso
+2. Cadastro (colaboradores, insumos, materiais, produtos, etapas)
+3. Estoque (controle, entrada, movimentação)
+4. Produção (Kanban)
+5. Em Uso (controle e visualização)
